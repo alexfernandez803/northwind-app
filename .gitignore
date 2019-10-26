@@ -1,0 +1,4 @@
+.vscode/launch.json
+.vscode/tasks.json
+api/src/northwind.api/obj/Debug/
+api/src/northwind.api/bin
